@@ -1,1 +1,1 @@
-<img src='boy.jpg'></img>
+<img src='stickynotesapp.jpg'></img>
